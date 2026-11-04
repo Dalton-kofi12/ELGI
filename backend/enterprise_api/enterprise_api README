@@ -1,0 +1,35 @@
+# ELGI Enterprise API
+
+The backend API for the ELGI Educational Ecosystem.
+
+## Project Overview
+
+ELGI Enterprise API provides the foundation for organisation management, user authentication, stakeholder management and audit logging.
+
+## Technology Stack
+
+- Python
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- SQLite / PostgreSQL
+- JWT Authentication
+- Argon2 Password Hashing
+
+## Core Features
+
+- User registration and login
+- Organisation management
+- Secure authentication
+- Stakeholder management
+- Organisation-level data isolation
+- Audit logging
+- REST API endpoints
+
+## Development Status
+
+Development and testing are ongoing.
+
+## Project
+
+E-learning Group Institute Ghana (ELGI).
